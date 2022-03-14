@@ -549,9 +549,9 @@ Add the following to the front matter to add all 4 buttons:
 # file: "resume.md"
 buttons:
   print: true
-  pdf: /assets/Resume.pdf
-  vcf: http://h2vx.com/vcf/<!--url-->
-  json: /assets/resume.json
+  pdf: /assets/Developer_NguyenHoangThanh.pdf
+  # vcf: http://h2vx.com/vcf/<!--url-->
+  # json: /assets/resume.json
 ```
 
 To remove a button remove the corresponding key from the hash. 
